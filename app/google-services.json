@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "860964367996",
+    "firebase_url": "https://custom-trained-model.firebaseio.com",
+    "project_id": "custom-trained-model",
+    "storage_bucket": "custom-trained-model.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860964367996:android:a214719c34df8a3cdba3f9",
+        "android_client_info": {
+          "package_name": "com.dinalie.objectdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860964367996-hpth77ukliuoh7lpsosll64vkvn7cmfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbXdkp3tJnz7XnMLTcYQpl0uIylAiceh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860964367996-hpth77ukliuoh7lpsosll64vkvn7cmfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
