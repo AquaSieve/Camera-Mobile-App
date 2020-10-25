@@ -22,13 +22,14 @@
     </com.camerakit.CameraKitView>
 
 
-
     <Button
         android:id="@+id/start_stop_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="132dp"
+        android:layout_height="56dp"
+        android:background="@drawable/btn3"
         android:elevation="5dp"
         android:text="capture"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
